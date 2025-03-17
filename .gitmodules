@@ -1,0 +1,9 @@
+[submodule "task-backend"]
+    path = task-backend
+    url = https://github.com/aididalam/task-backend.git
+    branch = main
+
+[submodule "task-frontend"]
+    path = task-frontend
+    url = https://github.com/aididalam/task-frontend.git
+    branch = main
