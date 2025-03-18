@@ -3,8 +3,16 @@
 ## Overview
 This repository contains the Task Manager App, a full-stack application with a ReactJS frontend and a PHP-based backend, utilizing MySQL for data storage. The application allows users to create, update, delete, filter, and search for tasks efficiently.
 
+## Demo URL
+You can access the live demo of the application at:
+[http://178.16.142.140:8333](http://178.16.142.140:8333)
+
+### Demo Credentials
+- **Email**: task@task.com
+- **Password**: task1234
+
 ## Project Structure
-- **task-backend/** - Contains the backend implementation using PHP with an MVC framework.
+- **task-backend/** - Contains the backend implementation using PHP with an MVC framework (Lumen).
 - **task-frontend/** - Contains the frontend implementation using ReactJS with Vite.
 
 > **Note:** Both `task-backend` and `task-frontend` are Git submodules and contain their respective `README.md` files with further details.
